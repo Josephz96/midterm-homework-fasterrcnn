@@ -1,0 +1,1 @@
+百度网盘下载的训练好的权值文件fasterrcnn_best_epoch_weights放在该文件夹下
